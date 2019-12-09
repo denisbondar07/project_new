@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column; }
+  body .header_bg {
+    background: url(../img/header/bg-header.jpg) no-repeat center top/cover;
+    height: 800px; }
+  body .header_bg_2 {
+    background: url(../img/header/bg-2.jpg) no-repeat center top/cover;
+    height: 800px; }
+  body ul li {
+    list-style: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 50px; }
+  body #nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px; }
+  body li > a {
+    color: #fff; }
+  body li > a:hover {
+    color: #464677; }
+  body #menu > ul {
+    display: flex; }
+  body #social > ul {
+    display: flex; }
+  body .header_text h1 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 80px;
+    margin: 280px auto;
+    text-align: center;
+    letter-spacing: 10px; }
+  body .slider {
+    margin-top: 0;
+    height: 800px; }
+  body .header_text {
+    height: 100px; }
+  body .header_text p {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 10px;
+    margin-top: 10px;
+    font-weight: 100; }
+  body .header_arrow {
+    margin-top: 200px;
+    margin-left: 720px; }
+  body .slider .slick_dots {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 3%;
+    top: 38%; }
+  body .slider .slick_dots li {
+    display: block;
+    margin: 20px 0; }
+  body .slider .slick_dots button {
+    outline: none;
+    background-color: transparent;
+    font-size: 0;
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    cursor: pointer; }
+  body .slider .slick_dots button:hover, body .slider .slick_dots button:active, body .slider .slick_dots button:focus {
+    background-color: #fff; }
+  body .slider .slick_dots .slick_active button {
+    background-color: #fff; }
+  body #what_we_do {
+    height: 815px;
+    position: relative; }
+  body #what_we_do h2 {
+    font-size: 44px;
+    text-transform: uppercase;
+    margin-top: 120px;
+    text-align: center; }
+  body #img-2 {
+    position: absolute;
+    top: 400px;
+    left: 150px; }
+  body #img-1 {
+    position: absolute;
+    left: 0; }
+  body .logos {
+    margin-top: 110px; }
+  body .main_content {
+    display: flex;
+    justify-content: space-around; }
+  body .main_content_text {
+    margin-top: 100px; }
+  body .main_content_text h2 {
+    font-size: 44px;
+    font-weight: 300; }
+  body .main_content_text > h2 > p {
+    font-size: 22px;
+    font-weight: 100;
+    text-align: left; }
+  body .main_content_text p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 25px; }
+  body .button > a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #2c4058;
+    border: 1px solid #2c4058;
+    padding: 15px; }
+  body .button {
+    margin-top: 50px; }
+  body .button > a:hover {
+    background-color: #2c4058;
+    color: #fff; }
+  body .italic {
+    font-family: 'Italianno', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-top: 100px; }
+  body #commerce {
+    height: 815px;
+    padding-top: 150px;
+    position: relative; }
+  body #img-3 {
+    position: absolute;
+    right: 150px;
+    top: 230px; }
+  body #img-4 {
+    position: absolute;
+    right: 0;
+    top: 170px; }
+  body #news {
+    height: 1035px;
+    background: url(../img/news/news-bg.png) no-repeat center top/cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center; }
+  body #news_head > h2 {
+    color: #fff;
+    font-size: 44px;
+    text-transform: uppercase; }
+  body #news_head {
+    margin-top: 140px; }
+  body .multiple-items {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px; }
+  body .elements {
+    height: 520px;
+    width: 373px;
+    margin: 0 20px;
+    background-color: white;
+    color: #232323; }
+  body .elements:hover {
+    opacity: 0.6; }
+  body .elements-text {
+    padding: 20px;
+    height: 300px; }
+  body .user {
+    display: flex;
+    text-transform: uppercase; }
+  body .date {
+    color: #77c5ff; }
