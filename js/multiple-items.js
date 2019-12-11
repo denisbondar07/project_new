@@ -7,6 +7,7 @@ $(document).ready(function(){
       slidesToShow: 3,
       variableWidth: true,
       arrows:true,
+      dotsClass:"multiple_dots",
       // prevArrow: "<img src='https://img/news/left arrow.png' class='prev' alt='1'>",
       // nextArrow: "<img src='https://svgshare.com/i/6Gf.svg' class='next' alt='2'>",
     });
