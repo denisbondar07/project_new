@@ -204,5 +204,8 @@ body {
     margin-left: 5px; }
   body .gallery_images img:hover {
     opacity: 0.6; }
-  body .gallery .button {
-    margin: 70px 500px; }
+  body #gallery .button {
+    margin: 70px 700px; }
+  body iframe {
+    width: 100%;
+    height: 700px; }
