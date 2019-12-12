@@ -33,7 +33,7 @@ li > a:hover{
 #menu > ul{
   display:flex;
 }
-#social > ul{
+.social > ul{
   display:flex;
 }
 .header_text h1{
@@ -258,6 +258,20 @@ cursor: pointer; }
 iframe{
   width: 100%;
   height: 700px;
+  }
+footer{
+  background: url(../img/footer/footer-bg.png) no-repeat center top / cover;
+  height: 520px;
+  }
+#footer_main{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 220px;
+  }
+footer p{
+  font-size: 14px;
+  color:#fff;
+  margin:50px 265px;
   }
   
   }
