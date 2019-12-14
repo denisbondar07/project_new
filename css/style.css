@@ -248,7 +248,7 @@ body {
     width: 300px;
     border-bottom: 1px solid black;
     margin-top: 10px; }
-  body button {
+  body form button {
     background-color: #fff;
     width: 140px;
     height: 50px;
@@ -258,6 +258,6 @@ body {
     border-top: 1px solid #000;
     margin-top: 20px;
     margin-left: 160px; }
-  body button:hover {
+  body form button:hover {
     background-color: #2c4058;
     color: #fff; }
