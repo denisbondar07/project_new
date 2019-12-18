@@ -47,8 +47,9 @@ body {
     margin-top: 10px;
     font-weight: 100; }
   body .header_arrow {
-    margin-top: 200px;
-    margin-left: 720px; }
+    width: 100px;
+    margin: 200px auto;
+    cursor: pointer; }
   body .slider .slick_dots {
     margin: 0;
     padding: 0;
